@@ -1,1 +1,1 @@
-# university-sdg-mapping
+# University-SDG-Mapping
